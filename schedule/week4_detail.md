@@ -1,4 +1,4 @@
-# Week 4 Detail September 28
+# Week 4 Detail
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -10,4 +10,8 @@
 * Review [Personal Kanban](../assignments/personal_kanban.md), a visual representation of your milestones
 * Group critique: [research and design](../project_plan.md)
 * Check-in with your accountability partner.
+
+## Assignments
+
+[See next week's deliverables](week5_detail.md)
 

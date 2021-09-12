@@ -1,4 +1,4 @@
-# Week 3 Detail
+# Week 3 Detail September 21
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -11,8 +11,4 @@
 * Class discussion of reading
 * Select [accountability partners](../assignments/accountability_partner.md)
 * Group critique: [research and design](../project_plan.md)
-
-## Assignments
-
-[See next week's deliverables](week4_detail.md)
 
