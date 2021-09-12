@@ -1,6 +1,6 @@
-# Week 9 Detail
+# Week 9 Detail November 2
 
-## Deliverables
+## Deliverables \(DUE ON DATE LISTED\)
 
 * Read the 2nd "Middle" chapter of Do The Work by Steven Pressfield and post your [response](../assignments/responses.md) to your process website. \(6 min\)
 * Revise [Pro practices materials](../end_of_semester_deliverables/pro_practices_revisions.md)
@@ -12,8 +12,4 @@
 * Class discussion of reading
 * Group critique: [Pro practices materials](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/0f2608a9ce0820faa34805b26c86faa1c8fa3495/pro_practices_revisions/README.md)
 * Check-in with your accountability partner.
-
-## Assignments
-
-[See next week's deliverables](week10_detail.md)
 
