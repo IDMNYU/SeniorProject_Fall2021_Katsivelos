@@ -1,4 +1,4 @@
-# Week 7 Detail October 19
+# Week 7 Detail
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -8,6 +8,10 @@
 
 ## Class
 
-* [**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/project_demo.md) **with another section of senior project from 12:30-4:20pm in either Studio A or B on IDM flr in 370 Jay**
+* [**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/project_demo.md) **How we will structure this is TBD**
 * **Attendance is MANDATORY for the full four hours unless you have a class. You'll need to show me in Albert.**
+
+## Assignments
+
+[See next week's deliverables](week9_detail.md)
 
