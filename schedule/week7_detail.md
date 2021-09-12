@@ -13,5 +13,5 @@
 
 ## Assignments
 
-[See next week's deliverables](week9_detail.md)
+[See next week's deliverables](week8_detail.md)
 
