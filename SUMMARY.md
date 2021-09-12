@@ -16,7 +16,7 @@
   * [Week 9 Detail](schedule/week9_detail.md)
   * [Week 10 Detail](schedule/week10_detail.md)
   * [Week 11 Detail](schedule/week11_detail.md)
-  * [Week 12 Detail April 26](schedule/week12_detail.md)
+  * [Week 12 Detail](schedule/week12_detail.md)
   * [Week 13 Detail May 3](schedule/week13_detail.md)
   * [Week 14 Detail May 10](schedule/week14_detail.md)
 * [Project Plan](project_plan.md)

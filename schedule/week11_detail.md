@@ -1,4 +1,4 @@
-# Week 11 Detail
+# Week 11 Detail November 16
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -9,8 +9,4 @@
 
 * Class Critique: [Project Demo of Gold Version Revision](../critiques-demos-presentations-and-exhibition/project_demo.md) \(if applicable\)
 * Check-in with your accountability partner.
-
-## Assignments
-
-[See next week's deliverables](week12_detail.md)
 
