@@ -1,4 +1,4 @@
-# Week 4 Detail Feb 22
+# Week 4 Detail September 28
 
 ## Deliverables \(DUE ON DATE LISTED\)
 

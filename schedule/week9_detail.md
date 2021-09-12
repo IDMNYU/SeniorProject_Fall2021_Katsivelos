@@ -1,4 +1,4 @@
-# Week 9 Detail March 29
+# Week 9 Detail November 2
 
 ## Deliverables \(DUE ON DATE LISTED\)
 

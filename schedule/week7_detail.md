@@ -1,4 +1,4 @@
-# Week 7 Detail March 15
+# Week 7 Detail October 19
 
 ## Deliverables \(DUE ON DATE LISTED\)
 

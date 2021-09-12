@@ -1,4 +1,4 @@
-# Week 3 Detail Feb 18
+# Week 3 Detail September 21
 
 ## Deliverables \(DUE ON DATE LISTED\)
 

@@ -1,4 +1,4 @@
-# Mid-Term Project Demos
+# Project Demos
 
 ![Keep Going!](http://teaching.polishedsolid.com/images/gettoworkbook_keep_going.png) _Illustration by Jolby from gettoworkbook_
 

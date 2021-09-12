@@ -12,3 +12,7 @@
 * Class discussion of reading
 * [Pecha kucha](../pre-work/pecha_kucha.md) presentations
 
+## Assignments
+
+[See next week's deliverables](week3_detail.md)
+

@@ -5,7 +5,7 @@
 _Illustration by Jolby from gettoworkbook_
 
 * [Join our slack channel](https://join.slack.com/t/idmseniorproj-euc3987/shared_invite/zt-goy0wxqo-7C8tVHbF75FEaTjGwwDWaw) with your nyu.edu email address
-* Read the [syllabus](./) and be prepared to discuss and ask questions on first day of class.  
+* Read the [syllabus]() and be prepared to discuss and ask questions on first day of class.  
 * Please direct message Nick on slack if you find any broken links or typos in the syllabus.
 * Populate a calendar \(google, iCal, outlook, or non-digital\) with due dates for this class, even though dates may change.
 * Create a google drive folder labeled "Senior Project Fall20 your first and last name" and share with nick.katsivelos@nyu.edu \(i.e. Senior Project Fall20 YourName\).

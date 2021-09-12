@@ -13,5 +13,8 @@
   * Discuss calendar and specifically: All dates and assignments are subject to change at the discretion of the professor.
   * Reading the weekly schedule.
   * NOTE: Due on date listed.
-* Assignments: [See deliverables for the following week](week2_detail.md)
+
+## Assignments
+
+*  [See deliverables for the following week](week2_detail.md)
 
