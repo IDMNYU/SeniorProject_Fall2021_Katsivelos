@@ -6,12 +6,10 @@ Over the course of the semester, you should upload the corresponding files and f
 
 * [Process pdf or book](pdf_or_book.md) file
 * [Project Documentation](project_documentation.md) folder
-* [Pro Practices Revisions ](pro_practices_revisions.md)files
 * [Final Self-assessment](final_self_assessment.md) file
 * [Letter To Next Cohort](letter_to_next_cohort.md) file 
 * [Midterm Self-assessment](midterm_self_assessment.md) file
 * [Course Evaluation](course_evaluation.md) file
 * [Pre-work](../pre-work/) folder
-
-
+* OPTIONAL [Pro Practices Revisions ](pro_practices_revisions.md)files
 
