@@ -10,6 +10,7 @@ This project plan will be constantly iterated over the course of the semester. I
 
 Please remember that you and a classmate can work as a team. Only one presentation and proposal is to be submitted per team.
 
+* Please name your file as lastname\_senior\Spring21\_projectplandraft\#\_date.pdf \(i.e. katsivelos\_senior\_sp21\_projectplan1\_2021jan15.pdf\). If a team, put both of your last names \(i.e. katsivelos\_and\_fitzgerald\)
 * Please note that any significant changes to your project will require the submission of a revised project plan.
 * Upload drafts to a folder labeled _project plan_ in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables/).
 
@@ -151,7 +152,7 @@ Please remember that you and a classmate can work as a team. Only one presentati
         <p>How are you achieving this?</p>
         <ul>
           <li>Break down your milestones into actionable tasks using a system of your
-            choice. I highly recommend <a href="http://trello.com">Trello</a> however,
+            choice. I highly recommend <a href="http://trello.com">Trello </a>however,
             it is not required if you have another system with prioritization as a
             focus. If you have another system, you must share it with the instructor.</li>
           <li>All actionable tasks should start with a verb (i.e. write, call, email,
@@ -235,7 +236,7 @@ Please remember that you and a classmate can work as a team. Only one presentati
   </tbody>
 </table>
 
-## Versions of Plan
+### Versions of Plan
 
 Alpha, Beta, and Gold refer to a project’s life cycle. The specific parameters and expectations of each version will be individually determined in consultation with the professor.
 
@@ -243,7 +244,7 @@ Alpha, Beta, and Gold refer to a project’s life cycle. The specific parameters
 * **Beta** is when the functionality, form, and implementation of your project is complete as possible. It is ready for user testing.
 * **Gold** is when all the bugs in your project have been fixed and quality is assured. It is ready to go public.
 
-## FEEDBACK THROUGH USER TESTING
+### FEEDBACK THROUGH USER TESTING
 
 You should be conducting research and user testing throughout the ENTIRE semester. Do not wait until the last minute to begin user testing; User testing gives you invaluable feedback about your project.
 
