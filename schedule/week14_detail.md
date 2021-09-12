@@ -1,4 +1,4 @@
-# Week 14 Detail December 7
+# Week 14 Detail
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -8,7 +8,7 @@
 
 ## Class
 
-**LAST DAY OF SPRING 2020 CLASSES**
+**LAST DAY OF CLASSES**
 
 * Course Evaluation
 * Class discussion of reading
