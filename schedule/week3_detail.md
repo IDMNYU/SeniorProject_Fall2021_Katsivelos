@@ -1,6 +1,6 @@
-# Week 3 Detail September 21
+# Week 3 Detail
 
-## Deliverables \(DUE ON DATE LISTED\)
+## Deliverables 
 
 * Read the 1st "Middle" chapter up until "Now We're Rolling" of Do The Work by Steven Pressfield \(10 min\) and post your [response](../assignments/responses.md) to your process website.
 * [Research and design](../project_plan.md) your project.
@@ -11,4 +11,8 @@
 * Class discussion of reading
 * Select [accountability partners](../assignments/accountability_partner.md)
 * Group critique: [research and design](../project_plan.md)
+
+## Assignments
+
+[See next week's deliverables](week4_detail.md)
 

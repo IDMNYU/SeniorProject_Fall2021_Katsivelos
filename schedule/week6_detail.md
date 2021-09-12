@@ -1,6 +1,6 @@
-# Week 6 Detail October 12
+# Week 6 Detail
 
-## Deliverables \(DUE ON DATE LISTED\)
+## Deliverables
 
 * Create [project plan presentation](../critiques-demos-presentations-and-exhibition/project_plan_presentation.md) minus the development section unless you're there already.
 * Iterate list of [resources and milestones](../project_plan.md) for your project. \(if applicable\)
@@ -10,4 +10,8 @@
 ## Class
 
 * Class critique: [Project plan presentation](../critiques-demos-presentations-and-exhibition/project_plan_presentation.md)
+
+## Assignments
+
+[See next week's deliverables](week7_detail.md)
 

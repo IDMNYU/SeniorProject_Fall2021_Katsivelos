@@ -1,6 +1,6 @@
-# Week 12 Detail November 23
+# Week 12 Detail
 
-## Deliverables \(DUE ON DATE LISTED\)
+## Deliverables
 
 * Continue to [develop the project itself and iterate the research, design, resources, and milestones](../project_plan.md) of your project.
 * [Document](../pre-work/website.md) your process and project.
@@ -9,4 +9,8 @@
 
 * Class Critique: [Project Demo of Gold Version Revision](../critiques-demos-presentations-and-exhibition/project_demo.md) \(if applicable\)
 * Check-in with your accountability partner.
+
+## Assignments
+
+[See next week's deliverables](week13_detail.md)
 

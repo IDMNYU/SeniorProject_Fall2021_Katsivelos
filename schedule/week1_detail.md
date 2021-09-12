@@ -1,6 +1,6 @@
 # Week 1 Detail
 
-## Deliverables \(Due Today\)
+## Deliverables 
 
 * List of project ideas
 * Read [Prework](../pre-work/) and be familiar with the things that need to get done
