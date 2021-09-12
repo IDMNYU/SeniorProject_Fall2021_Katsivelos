@@ -14,7 +14,7 @@ _Illustration by Jolby from gettoworkbook_
 | :--- | :--- | :--- |
 
 
-| 1 | [Mon Sept 13](week1_detail.md) | Syllabus / Pecha kucha presentations |
+| 1 | [Wed Sept 9](week1_detail.md) | Syllabus / Pecha kucha presentations |
 | :--- | :--- | :--- |
 
 
@@ -40,11 +40,11 @@ Wed Sept 16 - Last day of Drop/Add
 | :--- | :--- | :--- |
 
 
-| 7 | [Mon Oct 19](week7_detail.md) | **Midterm Demo and Critique** |
+| 7 | [Mon Oct 19](week7_detail.md) | **Midterm Demo and Critique**  |
 | :--- | :--- | :--- |
 
 
-| 8 | [Mon Oct 26](week8_detail.md) | **Midterm Demo and Critique continued** |
+| 8 | [Mon Oct 26](week8_detail.md) | **Midterm Demo and Critique continued**  |
 | :--- | :--- | :--- |
 
 
@@ -54,7 +54,7 @@ Tuesday November 3 - Last day to Withdraw
 | :--- | :--- | :--- |
 
 
-| 10 | [Mon Nov 9](week10_detail.md) | Pro practices materials \(if applicable\) |
+| 10 |  [Mon Nov 9](week10_detail.md) | Pro practices materials \(if applicable\) |
 | :--- | :--- | :--- |
 
 
@@ -74,7 +74,7 @@ Tuesday November 3 - Last day to Withdraw
 | :--- | :--- | :--- |
 
 
-| 15 | [Mon Dec 14](https://github.com/IDMNYU/SeniorProject_Fall2021_Katsivelos/tree/8b5c0e663d5f79b1ccd007ea6c6d72a1a388f24e/schedule/week15_detail.md) | **Final One On One Review** |
+| 15 | [Mon Dec 14](week15_detail.md) |  **Final One On One Review** |
 | :--- | :--- | :--- |
 
 
