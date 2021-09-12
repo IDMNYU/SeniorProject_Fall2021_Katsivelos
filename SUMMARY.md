@@ -7,7 +7,7 @@
 * [Schedule](schedule/README.md)
   * [Week 1 Detail](schedule/week1_detail.md)
   * [Week 2 Detail](schedule/week2_detail.md)
-  * [Week 3 Detail Feb 18](schedule/week3_detail.md)
+  * [Week 3 Detail](schedule/week3_detail.md)
   * [Week 4 Detail Feb 22](schedule/week4_detail.md)
   * [Week 5 Detail March 1](schedule/week5_detail.md)
   * [Week 6 Detail March 8](schedule/week6_detail.md)
