@@ -1,4 +1,4 @@
-# Week 11 Detail April 12
+# Week 11 Detail
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -12,5 +12,5 @@
 
 ## Assignments
 
-[See next week's deliverables](week3_detail.md)
+[See next week's deliverables](week12_detail.md)
 
