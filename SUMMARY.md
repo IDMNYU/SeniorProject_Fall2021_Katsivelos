@@ -14,7 +14,7 @@
   * [Week 7 Detail](schedule/week7_detail.md)
   * [Week 8 Detail](schedule/week8_detail.md)
   * [Week 9 Detail](schedule/week9_detail.md)
-  * [Week 10 Detail April 5](schedule/week10_detail.md)
+  * [Week 10 Detail](schedule/week10_detail.md)
   * [Week 11 Detail April 12](schedule/week11_detail.md)
   * [Week 12 Detail April 26](schedule/week12_detail.md)
   * [Week 13 Detail May 3](schedule/week13_detail.md)
