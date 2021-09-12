@@ -30,11 +30,11 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p
 
 **Course Communication:** **seniorprojectfall2021.slack.com** Slack will be our primary communication tool. You should have received an invite. If not, please oin with nyu.edu email address. Invite Link below [https://join.slack.com/t/seniorprojectfall2021/shared\_invite/zt-vkxf5jom-yZsvmnNG7Ks67QTO6KTzCA](https://join.slack.com/t/seniorprojectfall2021/shared_invite/zt-vkxf5jom-yZsvmnNG7Ks67QTO6KTzCA)
 
-## Welcome to Senior Project In Digital Media!
+## Welcome to Senior Project in Digital Media!
 
 **What is Senior Project in Digital Media?** Senior Project in Digital Media is the **capstone** course for the Integrated Digital Media \(IDM\) program. This course mirrors the creative process that professional artists, designers, creative technologists, and entrepreneurs must practice throughout their entire careers. **In order to succeed, this course requires you to devote a lot of time and effort outside of class, throughout the entire semester.**
 
-The primary goal for the student is to **develop a hunger and passion for self-directed, life-long learning and creativity**. To achieve this, students will involve themselves in a semester-long **capstone project that includes a robust investigation of all phases of the creative process**, including research, design, development, and user testing for the production of a **substantial and mature body of work,** representing their **creative and conceptual skills as artists, designers, creative technologists, and/or entrepreneurs**.
+The primary goal for the student is to **develop a hunger and passion for self-directed, life-long learning and creativity**. To achieve this, students will involve themselves in a semester-long **capstone project that includes a robust investigation of all phases of the creative process**, including research, design, development, and user testing to produce a **substantial and mature body of work,** representing their **creative and conceptual skills as artists, designers, creative technologists, and/or entrepreneurs**.
 
 As you engage in the rigorous practice of a professional artist, designer, or entrepreneur, your project will naturally evolve and change, and may in fact take quite a different shape than what you propose in the beginning of the semester. This is normal and OK.
 
@@ -69,7 +69,7 @@ How are you currently feeling about your Senior Project?
 
 **Senior Project is about the work YOU are and will continue to do, when you are no longer a student.** You don’t need anyone to whip you to work because you can NOT, not do it. **You will live, eat, breath, and sleep with this project.** **It is NOT about doing a project for a class or pleasing the IDM faculty. It is about you, your ideas, your concerns, your questions and your passion.**
 
-Senior Project in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow classmates, faculty, and outside critics. **Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.**
+Senior Project in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow classmates, faculty, and outside critics. **Your goal is to COMPLETE a project that has a life beyond school, beyond graduation.**
 
 ### Program Goals
 
@@ -152,11 +152,11 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 
 ### Student Values
 
-* Have desire amounting to enthusiasm \(to learn, to explore\)
+* **Have desire amounting to enthusiasm \(to learn, to explore\)**
 * Have self-motivation, proactiveness, and focus 
-* Have patience, persistence, and discipline 
+* **Have patience, persistence, and discipline** 
 * Be creative
-* Have self-confidence and pride in your work
+* **Have self-confidence and pride in your work**
 
 ### Self-Assessments
 
@@ -202,9 +202,9 @@ Students will conduct **self-assessments** as well as be evaluated by the profes
 
 Each student will be judged on the iteration & improvement \(process\), craft & completion \(execution\), and documentation & presentation of their senior project work.
 
-* **A Excellent**
+* **A Excellent -** _**PLEASE READ THIS CAREFULLY**_
 
-  Process, execution, documentation & presentation, and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class, exceeding expections.
+  Process, execution, documentation & presentation, and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class, exceeding expectations.
 
 * **B Very Good / Good**
 
@@ -222,7 +222,7 @@ Each student will be judged on the iteration & improvement \(process\), craft & 
 
   Process, execution, documentation & presentation, and attendance of the student has been such that the student has failed course requirements. Work shows no overall understanding of senior project on many levels, and/or a severe lack of interest.
 
-### Technology Use In The Classroom
+### Technology Use in the Classroom
 
 Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, instagram, twitter, etc. **When your classmates are presenting, please close your laptops and turn off your cell phones.**
 
