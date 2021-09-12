@@ -5,10 +5,10 @@
 _Illustration by Jolby from gettoworkbook_
 
 * [Join our slack channel](https://join.slack.com/t/idmseniorproj-euc3987/shared_invite/zt-goy0wxqo-7C8tVHbF75FEaTjGwwDWaw) with your nyu.edu email address
-* Read the [syllabus](./) and be prepared to discuss and ask questions on first day of class.  
+* Read the [syllabus]() and be prepared to discuss and ask questions on first day of class.  
 * Please direct message Nick on slack if you find any broken links or typos in the syllabus.
 * Populate a calendar \(google, iCal, outlook, or non-digital\) with due dates for this class, even though dates may change.
-* Create a google drive folder labeled "Senior Project Fall21 your first and last name" and share with nick.katsivelos@nyu.edu \(i.e. Senior Project Fall21 YourName\).
+* Create a google drive folder labeled "Senior Project Fall20 your first and last name" and share with nick.katsivelos@nyu.edu \(i.e. Senior Project Fall20 YourName\).
 * Set up [dedicated process website](website.md) for senior project.
 * Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1OcgV14fQ-5CF06pYlxactQf4kqYFKBWtfOupdwr-h5s/edit?usp=sharing).
 * Before beginning to prep for your [pecha kucha presentation](pecha_kucha.md), read the following chapters in [_Do The Work_ ](https://blackirishbooks.com/product/do-the-work/)by Steven Pressfield.  
@@ -26,5 +26,5 @@ _Illustration by Jolby from gettoworkbook_
   * [Storytelling Exercise](../brainstorming/storytelling_exercise.md)
   * Read or watch one or more of the [recommended resources](../recommended_resources.md) under "creativity" or "audio podcasts"
   * Browse one or more of the "inspiration" links in [recommended resources](../recommended_resources.md)
-* Prepare [pecha kucha presentation](pecha_kucha.md) to present on the 2nd class meeting.
+* Prepare [pecha kucha presentation](pecha_kucha.md) to present on the 1st day of class.
 
