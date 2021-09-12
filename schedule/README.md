@@ -18,11 +18,9 @@ _Illustration by Jolby from gettoworkbook_
 | :--- | :--- | :--- |
 
 
-| 2 | [Mon Sept 14](week2_detail.md) | Pecha kucha presentation revisions \(if applicable\) |
+| 2 | [Mon Sept 20](week2_detail.md) | Pecha kucha presentation revisions \(if applicable\) |
 | :--- | :--- | :--- |
 
-
-Wed Sept 16 - Last day of Drop/Add
 
 | 3 | [Mon Sept 21](week3_detail.md) | Research and design |
 | :--- | :--- | :--- |
