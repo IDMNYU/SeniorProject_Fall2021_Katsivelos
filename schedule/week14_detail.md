@@ -1,4 +1,4 @@
-# Week 14 Detail
+# Week 14 Detail December 7
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -8,14 +8,10 @@
 
 ## Class
 
-**LAST DAY OF CLASSES**
+**LAST DAY OF SPRING 2020 CLASSES**
 
 * Course Evaluation
 * Class discussion of reading
 * Class Critique: [Project Demo of Gold Version Revision](../project_plan.md) \(if applicable\)
 * Check-in with your accountability partner.
-
-## Assignments
-
-[See next week's deliverables](week-15-detail.md)
 
