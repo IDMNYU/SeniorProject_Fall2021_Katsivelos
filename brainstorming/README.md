@@ -6,5 +6,3 @@
 
 [Storytelling Exercise](storytelling_exercise.md)
 
-
-

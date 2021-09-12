@@ -6,5 +6,3 @@
 
 [IDM Showcase](idm_showcase.md)
 
-
-

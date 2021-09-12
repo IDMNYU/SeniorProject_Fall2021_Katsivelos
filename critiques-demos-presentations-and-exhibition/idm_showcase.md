@@ -2,7 +2,7 @@
 
 ![You Got This!](http://teaching.polishedsolid.com/images/gettoworkbook_got_this.png) _Illustration by Jolby from gettoworkbook_
 
-**DETAILS: Date and Details TBD**   
+**DETAILS: Date and Details TBD**  
 Attendance is MANDATORY for the entire duration of the showcase!!
 
 Your senior project will be publicly shown in the IDM showcase at the end of the semester \(date to be determined\). Exhibiting your work is truly a gift of accomplishment, response, and feedback.

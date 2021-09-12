@@ -13,5 +13,3 @@ Over the course of the semester, you should upload the corresponding files and f
 * [Course Evaluation](course_evaluation.md) file
 * [Pre-work](../pre-work/) folder
 
-
-
