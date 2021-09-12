@@ -1,4 +1,4 @@
-# Week 5 Detail
+# Week 5 Detail October 5
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -12,8 +12,4 @@
   * [resources and milestones](https://github.com/IDMNYU/seniorproject_sp20_duff/blob/master/project_plan.md)
   * [research and design](https://github.com/IDMNYU/seniorproject_sp20_duff/blob/master/project_plan.md)
 * Check-in with your [accountability partner](../assignments/accountability_partner.md).
-
-## Assignments
-
-[See next week's deliverables](week6_detail.md)
 

@@ -1,4 +1,4 @@
-# Week 6 Detail October 12
+# Week 6 Detail
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -10,4 +10,8 @@
 ## Class
 
 * Class critique: [Project plan presentation](../critiques-demos-presentations-and-exhibition/project_plan_presentation.md)
+
+## Assignments
+
+[See next week's deliverables](week7_detail.md)
 
