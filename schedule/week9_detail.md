@@ -1,4 +1,4 @@
-# Week 9 Detail November 2
+# Week 9 Detail
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -12,4 +12,8 @@
 * Class discussion of reading
 * Group critique: [Pro practices materials](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/0f2608a9ce0820faa34805b26c86faa1c8fa3495/pro_practices_revisions/README.md)
 * Check-in with your accountability partner.
+
+## Assignments
+
+[See next week's deliverables](week10_detail.md)
 
