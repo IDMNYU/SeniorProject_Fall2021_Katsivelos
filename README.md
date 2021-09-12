@@ -26,21 +26,19 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p
 
 **Credit Hrs** \| 3 \|
 
-**Course Website:** \[[https://nick-katsivelos.gitbook.io/seniorproject-sp2021-katsivelos/](https://nick-katsivelos.gitbook.io/seniorproject-sp2021-katsivelos/)\] The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
+**Course Website:** \[[https://nick-katsivelos.gitbook.io/seniorproject-fall2021-katsivelos/](https://nick-katsivelos.gitbook.io/seniorproject-fall2021-katsivelos/)\] The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
-**Course Communication:** \[[https://idmspsp2021.slack.com/](https://idmspsp2021.slack.com/)\] Slack will be our primary communication tool. Join with nyu.edu email address.
-
-This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors.
+**Course Communication:** **seniorprojectfall2021.slack.com** Slack will be our primary communication tool. You should have received an invite. If not, please oin with nyu.edu email address. Invite Link below [https://join.slack.com/t/seniorprojectfall2021/shared\_invite/zt-vkxf5jom-yZsvmnNG7Ks67QTO6KTzCA](https://join.slack.com/t/seniorprojectfall2021/shared_invite/zt-vkxf5jom-yZsvmnNG7Ks67QTO6KTzCA)
 
 ## Welcome to Senior Project In Digital Media!
 
-**What is Senior Project in Digital Media?** Senior Project in Digital Media is the capstone course for the Integrated Digital Media \(IDM\) program. This course mirrors the creative process that professional artists, designers, creative technologists, and entrepreneurs must practice throughout their entire careers. In order to succeed, this course requires you to devote a lot of time and effort outside of class, throughout the entire semester.
+**What is Senior Project in Digital Media?** Senior Project in Digital Media is the **capstone** course for the Integrated Digital Media \(IDM\) program. This course mirrors the creative process that professional artists, designers, creative technologists, and entrepreneurs must practice throughout their entire careers. **In order to succeed, this course requires you to devote a lot of time and effort outside of class, throughout the entire semester.**
 
-The primary goal for the student is to develop a hunger and passion for self-directed, life-long learning and creativity. To achieve this students will involve themselves in a semester-long capstone project that includes a robust investigation of all phases of the creative process, including research, design, development, and user testing for the production of a substantial and mature body of work, representing their creative and conceptual skills as artists, designers, creative technologists, and/or entrepreneurs.
+The primary goal for the student is to **develop a hunger and passion for self-directed, life-long learning and creativity**. To achieve this, students will involve themselves in a semester-long **capstone project that includes a robust investigation of all phases of the creative process**, including research, design, development, and user testing for the production of a **substantial and mature body of work,** representing their **creative and conceptual skills as artists, designers, creative technologists, and/or entrepreneurs**.
 
 As you engage in the rigorous practice of a professional artist, designer, or entrepreneur, your project will naturally evolve and change, and may in fact take quite a different shape than what you propose in the beginning of the semester. This is normal and OK.
 
-The Senior Project can take many forms, including but not limited to the following:
+**The Senior Project can take many forms,** including but not limited to the following:
 
 * a screen-based, digital application \(website, mobile app, game, etc.\)
 * a physical object, musical instrument, physical game, or interactive installation
@@ -67,20 +65,20 @@ How are you currently feeling about your Senior Project?
 * Absolutely, Yes! or 
 * No:\( 
 
-If you are NOT feeling “Absolutely, Yes!” about your senior project, remember your project idea is just that YOURS. I highly suggest you read "What is Senior Project in Digital Media?", again, AND the required and recommended resources NOW!
+**If you are NOT feeling “Absolutely, Yes!” about your senior project**, remember your project idea is just that YOURS. I highly suggest you **read "What is Senior Project in Digital Media?"** \(above on this page\)**, again, AND the required and recommended resources NOW!**
 
-Senior Project is about the work YOU are and will continue to do, when you are no longer a student. You don’t need anyone to whip you to work because you can NOT, not do it. You will live, eat, breath, and sleep with this project. It is NOT about doing a project for a class or pleasing the IDM faculty. It is about you, your ideas, your concerns, your questions and your passion.
+**Senior Project is about the work YOU are and will continue to do, when you are no longer a student.** You don’t need anyone to whip you to work because you can NOT, not do it. **You will live, eat, breath, and sleep with this project.** **It is NOT about doing a project for a class or pleasing the IDM faculty. It is about you, your ideas, your concerns, your questions and your passion.**
 
-Senior Project in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow classmates, faculty, and outside critics. Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.
+Senior Project in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow classmates, faculty, and outside critics. **Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.**
 
 ### Program Goals
 
 The following IDM program goals are reinforced within this course. Students will:
 
-* develop **conceptual thinking skills** to generate ideas and content in order to solve problems or create opportunities.
+* develop **conceptual thinking skills** to generate ideas and content to solve problems or create opportunities.
   * Students will develop a research and studio practice through inquiry and iteration.
 * develop **technical skills** to realize their ideas.
-  * Students will understand and utilize tools and technology, while adapting to constantly changing technological paradigms by learning how to learn.
+  * Students will understand and use tools and technology, while adapting to constantly changing technological paradigms by learning how to learn.
   * Students will be able to integrate/interface different technologies within a technological ecosystem.
 * develop **critical thinking skills** that will allow them to analyze and position their work within cultural, historic, aesthetic, economic, and technological contexts.
 * gain knowledge of **professional practices and organizations** by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
@@ -95,7 +93,7 @@ This course will help students to:
 
 ### Learning Outcomes
 
-By the end of the course, students will be able to develop, complete, and document a body of work that is meaningful and carefully crafted to be used for professional purposes \(employment, gallery shows, starting a business, etc.\).
+**By the end of the course, students will be able to develop, complete, and document a body of work that is meaningful and carefully crafted to be used for professional purposes \(employment, gallery shows, starting a business, etc.\).**
 
 ### Course Structure
 
@@ -103,7 +101,7 @@ Students are expected to be on time for all individual meetings, critiques, proj
 
 * **Outside critic**
 
-  It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting \(date, time, length, and typed notes\) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](pre-work/website.md).
+  It is the responsibility of each senior to invite an outside critic to _**at least**_ **one** of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting \(date, time, length, and typed notes\) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](pre-work/website.md).
 
 This class will consist of
 
@@ -130,27 +128,27 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 * What are ways that the project can be improved?
 * What additional references, resources, projects, and/or links that would be useful for the project?
 
-### Communicating With The Professor Outside Of Class
+### Communicating With the Professor Outside of Class
 
 * Direct message the professor on Slack about logistics \(when, where, how many?\) ONLY
 * Talk to the professor directly after class, during one of your one-on-one meetings, or set up an appointment by emailing or slack messaging me about issues and problems. DO NOT email long conversations. \(If your email turns into paragraphs that means you should be talking to me in person not emailing me.\)
-* Please be aware that I have an office on 3 in 370 Jay, but am usually only there on Mondays.
+* Please be aware that I have an office on 3 in 370 Jay but am usually only there on Mondays.
 
 ### Student Responsibilities
 
 * Schedule your time \(keep a calendar of some sort\) 
 * Come to class, individual meetings, and special events on time. 
-* Participate in class critiques and discussions. Be vocal.
+* Participate in class critiques and discussions. **Be vocal.**
 * Consult slack at least once a week for up to date info
 * Maintain a weekly, dedicated, process website
 * **Back up your work constantly** 
 * Complete all deliverables by their due dates
-* Action – do your absolute best
+* Action – **do your absolute best**
 * Reflection - Any action without reflection is meaningless
 * Iteration - Strive for continuous improvement
 * Pay attention to detail & craft
 * Take risks & be fearless in your projects
-* Have fun!
+* **Have fun!**
 
 ### Student Values
 
@@ -160,9 +158,9 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 * Be creative
 * Have self-confidence and pride in your work
 
-### Self Assessments
+### Self-Assessments
 
-Students will conduct **self assessments** as well as be evaluated by the professor at midterm and at the end of the semester. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
+Students will conduct **self-assessments** as well as be evaluated by the professor at midterm and at the end of the semester. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
 
 ### Evaluation & Grading
 
@@ -174,8 +172,8 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 * Missed individual meetings will not be rescheduled; Make every effort to swap your timeslot with another student. Otherwise, students will have to wait for their next assigned meeting time if you do not attend or swap your timeslot.
 * In the event a student has little or no progress to show, he/she is still required to attend class.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
-* Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-* Contact the professor IN ADVANCE if you will not be in class \(in person or by email is preferred\).
+* Be on Time. 
+* **Contact the professor IN ADVANCE if you will not be in class \(in person or by email is preferred\).**
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
 
