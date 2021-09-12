@@ -19,6 +19,7 @@
   * [Week 12 Detail](schedule/week12_detail.md)
   * [Week 13 Detail](schedule/week13_detail.md)
   * [Week 14 Detail](schedule/week14_detail.md)
+  * [Week 15 Detail](schedule/week-15-detail.md)
 * [Project Plan](project_plan.md)
 * [Assignments:](assignments/README.md)
   * [Accountability Partner](assignments/accountability_partner.md)
