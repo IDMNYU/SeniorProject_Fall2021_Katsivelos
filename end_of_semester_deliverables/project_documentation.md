@@ -1,6 +1,6 @@
 # Project Documentation
 
-Upload to a folder labeled "Project Documentation" for your [end of semester deliverables](./).
+Upload to a a folder labeled "Project Documentation" for your [end of semester deliverables](./).
 
 Photo documentation \(for all students\)
 
