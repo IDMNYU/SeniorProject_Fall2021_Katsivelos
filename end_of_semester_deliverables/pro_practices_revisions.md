@@ -1,8 +1,4 @@
----
-description: We can discuss this..
----
-
-# \(OPTIONAL\) Pro Practices Revisions
+# Pro Practices Revisions
 
 Iterate the following from professional practices:
 
