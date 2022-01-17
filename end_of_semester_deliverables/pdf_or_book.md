@@ -8,26 +8,24 @@ Upload all drafts including the final version to a folder labeled _end of semest
 
 ### First and Second Drafts
 
-* Please name your file as lastname\_senior\_sp20\_draft\#\_date.pdf \(i.e. katsivelos\_senior\_sp20\_draft1\_2020apr15.pdf and katsivelos\_senior\_sp20\_draft2\_2020may08.pdf\)
+* Please be sure to indicate version number in the filename
 
 ### Final Version
 
-* Please name your file as lastname\_senior\_sp20.pdf \(i.e. katsivelos\_senior\_sp20.pdf\) 
+* Please be sure to put Final in the filename
 * If pdf, **post on slack** for everyone to see and download in the class
 * If physical book, post the link to the preview on blurb on slack AND bring the actual book. Make sure the book is public and that you can preview the entire book. If you can't figure out how to preview it on blurb, upload a pdf of the book to the senior project channel on slack.
 
-This should be compiled using **Adobe InDesign**.
+This should be compiled using **Any Document Design program - that means Adobe InDesign \(especially if you are making a physical book\) or Word if you are creating a PDF only. Do NOT use any presentation software i.e Slides, PowerPoint, Prezi.**
 
 PDF Cover:
 
 * Your first and last name \(if team, both names\)
 * The Name of Your Project
 * Senior Project in Digital Media
-* Spring 2020
+* Fall 2021
 * IDM NYU
 * URL to your process website
-
-Combine multiple pdfs using Adobe Acrobat Pro: FILE &gt; CREATE &gt; COMBINE INTO A SINGLE PDF or using Preview \(Drag and Drop with thumbnail panel\)
 
 ## \(OPTIONAL instead of PDF\) END OF SEMESTER BOOK REQUIREMENTS
 
