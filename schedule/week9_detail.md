@@ -1,0 +1,18 @@
+# Week 9 Detail
+
+## Deliverables
+
+* Read the 2nd "Middle" chapter of Do The Work by Steven Pressfield and post your [response](../assignments/responses.md) to your process website. (6 min)
+* Revise [Pro practices materials](../end\_of\_semester\_deliverables/pro\_practices\_revisions.md)
+* Continue to [develop the project itself and iterate the research, design, resources, and milestones](../project\_plan.md) of your project.
+* [Document](../pre-work/website.md) your process and project.
+
+## Class
+
+* Class discussion of reading
+* Group critique: [Pro practices materials](https://github.com/IDMNYU/seniorproject\_sp20\_duff/tree/0f2608a9ce0820faa34805b26c86faa1c8fa3495/pro\_practices\_revisions/README.md)
+* Check-in with your accountability partner.
+
+## Assignments
+
+[See next week's deliverables](week10\_detail.md)
